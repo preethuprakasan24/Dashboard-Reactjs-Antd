@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Reactjs-Antd/static/css/main.b124614a.css",
+    "main.js": "/Dashboard-Reactjs-Antd/static/js/main.35b8f2fe.js",
+    "static/js/592.7f72a991.chunk.js": "/Dashboard-Reactjs-Antd/static/js/592.7f72a991.chunk.js",
+    "static/media/backgroundImage.jpg": "/Dashboard-Reactjs-Antd/static/media/backgroundImage.51cf5338ba30729e2fab.jpg",
+    "index.html": "/Dashboard-Reactjs-Antd/index.html",
+    "main.b124614a.css.map": "/Dashboard-Reactjs-Antd/static/css/main.b124614a.css.map",
+    "main.35b8f2fe.js.map": "/Dashboard-Reactjs-Antd/static/js/main.35b8f2fe.js.map",
+    "592.7f72a991.chunk.js.map": "/Dashboard-Reactjs-Antd/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b124614a.css",
+    "static/js/main.35b8f2fe.js"
+  ]
+}
